@@ -1,0 +1,36 @@
+* Integrantes 1TDSPV: 
+
+	Carlos Eduardo RM552164
+	Eduardo Toshio RM551763
+	Kaue Alexandre RM551812
+	Vitor Machado RM551692
+	Matheus Vinicius RM551451
+
+* Credenciais de ChatBot
+
+- Credenciais do IBM Watson 
+
+	https://api.us-south.assistant.watson.cloud.ibm.com/instances/a9b07a01-0399-4f87-92a5-a8392a6e1d7f
+	API key - DypJ25x8pTlOpS3V9CJhXXIhkZite1DSj_9XhIgz7znr
+	AssistentId - c2358851-1b52-493c-8b3d-af61997e3a9b
+
+
+- Credenciais do Speech to Text
+
+	https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/d32eab13-4bce-4e92-bd9f-344ae27f4fbe
+	8yjGTkd8dYYsWdqVvHfqy6QCiAwJGok00Ql397ILil6Z
+
+
+- Credenciais do Text to Speech
+
+	https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/024d064f-fa9f-40f2-8eae-960aee020e7c
+	2gHs-BNBIR2G3XhRT3MPMEkWfhgXXKkaXRBoMgiCkgB3
+
+
+- Credenciais do translator
+
+	https://api.us-south.language-translator.watson.cloud.ibm.com/instances/e08505c7-a8ab-4a3a-9239-c492e6da9bc0
+	TAVZu48JkzSIQVUAboHd86CXVuLUeEV9J6yS5IHSncSj
+
+
+ 
